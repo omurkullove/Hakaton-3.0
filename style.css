@@ -1,0 +1,36 @@
+.container-2 {
+  display: flex;
+  justify-content: center;
+}
+.container-3 {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.navbar {
+  background-image: URL("https://wallpapercave.com/wp/wp2939697.jpg");
+}
+body {
+  background-image: url("https://wallpapercave.com/wp/wp2939697.jpg");
+}
+.d-body {
+  margin-top: 100px !important;
+}
+.card {
+  color: white;
+  margin-top: 100px;
+}
+.container-3 {
+  background: transparent !important;
+}
+#bio-search {
+  background: transparent !important;
+  color: white;
+}
+.nav-link {
+  font-size: large !important;
+  font-weight: bold !important;
+}
+.nav-link:hover {
+  color: white !important;
+}

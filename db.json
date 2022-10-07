@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "name": "Jack",
+      "surname": "Pitterson",
+      "number": "8775993707",
+      "wKpi": "100",
+      "mKpi": "100",
+      "id": 1
+    },
+    {
+      "name": "Tom",
+      "surname": "Andrew",
+      "number": "888493647700",
+      "wKpi": "60",
+      "mKpi": "98",
+      "id": 2
+    },
+    {
+      "name": "Patric",
+      "surname": "Wild",
+      "number": "00977864",
+      "wKpi": "69",
+      "mKpi": "99",
+      "id": 3
+    },
+    {
+      "name": "Godzilla",
+      "surname": "King Kong",
+      "number": "067785399",
+      "wKpi": "100",
+      "mKpi": "100",
+      "id": 4
+    }
+  ]
+}
